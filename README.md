@@ -13,7 +13,7 @@
 ```
 * Copiar el contenido del archivo ".env.example" a ".env" y modificar los datos de conexión a MySQL.
 
-## Comandos
+## Instalar dependencias
 ```bash
 $ composer update
 $ npm install
