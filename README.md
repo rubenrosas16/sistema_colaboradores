@@ -7,15 +7,21 @@
 [MySQL](https://www.apachefriends.org/es/index.html)
 
 ## Configuraciones de archivo
-1.- Correr el comando:
+* Correr el comando:
+```bash
     php artisan key:generate
-2.- Copiar el contenido del archivo ".env.example" a ".env" y modificar los datos de conexión a MySQL.
+```
+* Copiar el contenido del archivo ".env.example" a ".env" y modificar los datos de conexión a MySQL.
 
 ## Comandos
-composer update
-npm install
-npm run dev
-php artisan migrate
+```bash
+$ composer update
+$ npm install
+$ npm run dev
+$ php artisan migrate
+```
 
 ## Run
+```bash
 php artisan serve
+```
