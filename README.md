@@ -1,10 +1,10 @@
 # Sistema de colaboradores
 
 ## Prerequisitos
-[PHP 7](https://www.apachefriends.org/es/index.html)
-[Composer 2](https://getcomposer.org/)
-[Nodejs](https://nodejs.org/es/)
-[MySQL](https://www.apachefriends.org/es/index.html)
+* [PHP 7](https://www.apachefriends.org/es/index.html)
+* [Composer 2](https://getcomposer.org/)
+* [Nodejs](https://nodejs.org/es/)
+* [MySQL](https://www.apachefriends.org/es/index.html)
 
 ## Configuraciones de archivo
 * Correr el comando:
