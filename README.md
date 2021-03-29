@@ -9,7 +9,7 @@
 ## Configuraciones de archivo
 * Correr el comando:
 ```bash
-    php artisan key:generate
+    $ php artisan key:generate
 ```
 * Copiar el contenido del archivo ".env.example" a ".env" y modificar los datos de conexión a MySQL.
 
